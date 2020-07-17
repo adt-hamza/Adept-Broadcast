@@ -1,1 +1,2 @@
-# Adept-Broadcast
+# Elenore
+Elenore - Multi-use Discord Bot.
